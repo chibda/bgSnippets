@@ -23,7 +23,7 @@ export default function RootLayout({
         <Script
           async
           src="https://analytics.umami.is/script.js"  // need to change this
-          data-website-id="9ad0e597-9fa4-4690-8ca2-18a964ab087f" // need to change this
+          data-website-id="c2c92159-f0c0-4700-a64e-9c74269ed6fc" // need to change this
         />
       ) : null}
       <body className={inter.className}>{children}</body>
